@@ -59,7 +59,7 @@
     "hostedUIDomainName": "reactamplify1106f3a8-1106f3a8",
     "authProvidersUserPool": [],
     "hostedUIProviderMeta": "[]",
-    "oAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"http://localhost:3000/\",\"https://main.d1ywqioqe8vgqe.amplifyapp.com/\"],\"LogoutURLs\":[\"http://localhost:3000/\",\"https://main.d1ywqioqe8vgqe.amplifyapp.com/\"]}",
-    "authProviders": []
+    "authProviders": [],
+    "oAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"http://localhost:3000/\",\"https://main.d1ywqioqe8vgqe.amplifyapp.com/\",\"https://aws.amazon.com/\"],\"LogoutURLs\":[\"http://localhost:3000/\",\"https://main.d1ywqioqe8vgqe.amplifyapp.com/\"]}"
   }
 }
